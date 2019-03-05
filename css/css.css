@@ -1,0 +1,48 @@
+@charset "EUC-KR";
+
+        #logo{
+        width: 10rem;
+        height: 6rem;
+        }
+        
+        #header>ul.menu_bar>li {
+        background: white;
+        display: inline-block;
+        width: 20%; /* 전체 넓이의 3할 차지 */
+        text-align: center;
+ 		padding-top: 1rem;
+        padding-bottom: 1rem;
+		position:relative;
+
+		top:190px;
+        font-size: 2rem;
+        border: 5px solid black;
+        }
+         #loginForm{
+        background: white;
+        padding-left: 10px;
+/*         padding-bottom: 10px; */
+        border: 5px solid black;
+        width: 30%;
+        position:absolute;
+           right:300px;
+           
+           
+        }
+
+.wpforms-form {
+    background-color: #eee;
+    padding: 5px 5px;
+    border: 4px solid #666;
+    border-radius: 20px;
+}
+
+
+        
+table {border: 2px double Gainsboro ; width:666px}
+td,th{border:1px Gainsboro   solid ; text-align: center; padding:5px}
+
+        
+
+
+
