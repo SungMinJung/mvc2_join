@@ -15,3 +15,4 @@ CREATE TABLE `member` (   <br/>
   `email` varchar(30) NOT NULL,<br/>
   PRIMARY KEY (`id`)<br/>
 )
+<p>by.2018-2학기</p>
