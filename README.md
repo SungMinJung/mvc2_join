@@ -8,10 +8,10 @@
 
 
 DB:
-CREATE TABLE `member` (
-  `id` varchar(20) NOT NULL,
-  `pw` varchar(20) NOT NULL,
-  `name` varchar(20) NOT NULL,
-  `email` varchar(30) NOT NULL,
-  PRIMARY KEY (`id`)
+CREATE TABLE `member` (   <br/>
+  `id` varchar(20) NOT NULL,<br/>
+  `pw` varchar(20) NOT NULL,<br/>
+  `name` varchar(20) NOT NULL,<br/>
+  `email` varchar(30) NOT NULL,<br/>
+  PRIMARY KEY (`id`)<br/>
 )
